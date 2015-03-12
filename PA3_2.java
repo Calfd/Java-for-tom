@@ -91,17 +91,9 @@ public class PA3_2
      latitude= filescan.nextDouble();
      System.out.println("2 " + latitude);
      longitude= filescan.nextDouble();
-    
-    
      depthIn= filescan.nextDouble();
-   
-    
-     magnitude= filescan.nextDouble();
-    
-    
+     magnitude= filescan.nextDouble():
      place= filescan.next();
-    
-    
     counter ++;
     sum +=magnitude;
     
